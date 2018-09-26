@@ -31,4 +31,4 @@ weight = 5
 
 # Biography
 
-Mark Chen is an experienced bioinformatics scientist with a demonstrated history of working in the pharmaceutical company and hospital & health care industry. He is a strong research professional with a Ph.D. focused in Bioinformatics from Chinese Academy of Sciences (CAS) and postdoctoral training from Salk Institute, UC San Diego, and Genentech. He is currently working for St Jude Children's Research Hospital.
+I am a bioinformatics scientist with a demonstrated history of working in the pharmaceutical company and hospital & health care industry. I am a research professional with a Ph.D. focused in Bioinformatics from Chinese Academy of Sciences (CAS) and postdoctoral training from Salk Institute, UC San Diego, and Genentech. I am currently working for St Jude Children's Research Hospital.
